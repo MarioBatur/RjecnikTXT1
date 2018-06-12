@@ -1,0 +1,28 @@
+aal: der, -(e)s, -e jegulja
+abart: die, -, -en podvrsta
+abbau: der, -s razgradnja, raspadanje, vađenje rude
+abbaubar: razgradiv
+abbauen: razgraditi, razgraĐivati
+abbau: der, -s razgradnja
+abbauvorgang: der, -s, ¨-e proces razgradnje, raspadanja
+abgabe der Elektronen: die, - otpuštanje elektrona
+abgas: das, -es, -e ispušni plin
+abgasfrei: bez ispušnih plinova
+abhängigkeit: die, -, -en ovisnost, zavisnost
+abhängig: ovisan / abhängig sein von + Dat.biti ovisan o
+abkochen: kuhati, skuhati
+Bäcker: der, -s, - pekar
+Bäckerei: die, -, -en pekarnica
+Backpulver: das, -s, - prašak za pecivo
+Backware: die, -, -n pekarski proizvod
+Badan: der, -s badan (biljka)
+Bakterie: die, -, -n bakterija
+Bakterienhülle: die, -, -n bakterijska ovojnica
+Bakterientätigkeit: die, -, -en djelovanje bakterija
+Banane: die, -, -n banana
+Bar: das, -s, -s bar (mjerna jedinica za tlak)
+Barium: das, -s barij (Ba)
+Barsch: der, -es, -e grgeč
+Base: die, -, -n baza (u kemiji)
+Bauch: der, -s, ¨-e trbuh
+Bauchspeicheldrüse: die, -, -n gušteraèa
